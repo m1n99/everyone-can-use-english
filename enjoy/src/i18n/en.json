@@ -129,6 +129,18 @@
         "missingBreak": "There is no break between two words when there is a punctuation between them.",
         "monotone": "The word is monotone."
       }
+    },
+    "chatAgent": {
+      "notFound": "Chat agent not found",
+      "name": "Name",
+      "introduction": "Introduction",
+      "language": "Language",
+      "prompt": "Prompt",
+      "engine": "AI Engine",
+      "model": "AI Model",
+      "ttsEngine": "TTS Engine",
+      "ttsModel": "TTS Model",
+      "ttsVoice": "TTS Voice"
     }
   },
   "sidebar": {
@@ -654,5 +666,7 @@
   "continueLearning": "Continue learning",
   "enrollNow": "Enroll now",
   "enrollments": "Enrollments",
-  "noLikesYet": "No likes yet"
+  "noLikesYet": "No likes yet",
+  "deleteChatAgent": "Delete agent",
+  "deleteChatAgentConfirmation": "Are you sure to delete this chat agent?"
 }
